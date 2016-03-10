@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Patrick Darling]]></title>
+        <description><![CDATA[Patrick Darling]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Thu, 10 Mar 2016 01:12:51 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>This is a test... this is only a test. Had this been an actual post it would have stated something profoundly wise and transformational... life-changing.</p>]]></description>
+            <link>undefinedthis-is-a-test-this-is-only-a-test-had-this-been-an-actu/index.html</link>
+            <guid isPermaLink="false">68935881-d81d-4511-ac3d-98c5d9c21bd6</guid>
+            <pubDate>Thu, 10 Mar 2016 01:12:51 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
